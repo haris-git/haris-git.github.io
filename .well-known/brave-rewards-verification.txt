@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: haris-git.github.io
+Token: 8d011261832d9e3b9b5c6a869cf9ae62edeca192a7857cecf00af8767b3ebce7
